@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    height: 5rem;
+}
+.faixa{
+    width: 3%;
+}
+.card{
+    width: 18rem !important;
+}
